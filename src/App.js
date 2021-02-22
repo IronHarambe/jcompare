@@ -1,9 +1,10 @@
-import "./App.css";
+import "./App.scss";
+import Toggler from "./component/compare/toggle-chart/Toggler";
 
 function App() {
   return (
     <div className="App">
-      <h1>J Compare</h1>
+      <Toggler></Toggler>
     </div>
   );
 }
