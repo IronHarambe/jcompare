@@ -1,0 +1,25 @@
+.banner {
+  height: 100vh;
+  background: url("../banner/wave.jpg") no-repeat center center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  opacity: 0.8;
+
+  h1 {
+    color: white;
+    font-size: 3em;
+    text-shadow: 3px 3px 0px #000;
+  }
+
+  .btn {
+    background-color: rgb(206, 32, 41);
+    padding: 1em 1.5em;
+    text-decoration: none;
+    color: white;
+    font-size: 1.3em;
+    letter-spacing: 2px;
+  }
+}
