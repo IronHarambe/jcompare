@@ -35,7 +35,7 @@ function KataChart() {
         <Char title="ル" tag="ru"></Char>
         <Char title="ユ" tag="yu"></Char>
         <Char title="ム" tag="mu"></Char>
-        <Char title="フ" tag="fu/hu"></Char>
+        <Char title="フ" tag="hu"></Char>
         <Char title="ヌ" tag="nu"></Char>
         <Char title="ツ" tag="tsu"></Char>
         <Char title="ス" tag="su"></Char>

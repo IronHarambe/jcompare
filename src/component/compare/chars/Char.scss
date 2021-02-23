@@ -12,3 +12,15 @@
     font-size: 1.5em;
   }
 }
+
+@media (max-width: 500px) {
+  .char {
+    h1 {
+      font-size: 1em;
+    }
+
+    p {
+      font-size: 1em;
+    }
+  }
+}

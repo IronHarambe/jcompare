@@ -35,7 +35,7 @@ function HiraChart() {
         <Char title="る" tag="ru"></Char>
         <Char title="ゆ" tag="yu"></Char>
         <Char title="む" tag="mu"></Char>
-        <Char title="ふ" tag="fu/hu"></Char>
+        <Char title="ふ" tag="hu"></Char>
         <Char title="ぬ" tag="nu"></Char>
         <Char title="つ" tag="tsu"></Char>
         <Char title="す" tag="su"></Char>
