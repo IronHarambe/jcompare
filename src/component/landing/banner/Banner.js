@@ -9,7 +9,7 @@ function Banner() {
     <div className="banner">
       <h1>Master Hiragana & Katakana </h1>
 
-      <a className="btn" href="">
+      <a className="btn" href="/compare">
         COMPARE
       </a>
     </div>
