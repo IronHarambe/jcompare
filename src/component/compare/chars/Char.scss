@@ -16,6 +16,11 @@
 
 @media (max-width: 500px) {
   .char {
+    h1,
+    p {
+      text-shadow: 1.5px 1.5px 0px #000;
+    }
+
     h1 {
       font-size: 1em;
     }
